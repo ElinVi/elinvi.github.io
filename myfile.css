@@ -1,6 +1,6 @@
 h1{
-background-color:#FEDFD8
-color:#000000;
+background-color:#MediumSeaGreen;
+color:#FEDFD8;
 font-size:80px;
 }
 p.fancy{
@@ -10,12 +10,12 @@ font-style: verdana;
 ul.nav li{
   display:inline;
   padding:20px;
-  width:80px;
+  width:60px;
 }
 ul.nav li a{
   display:inline-block;
   padding:20px;
-  background-color:##E1D32D;
+  background-color:#FEDFD8;
   color:#000000;
     
 }
