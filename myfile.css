@@ -17,5 +17,8 @@ ul.nav li a{
   padding:20px;
   background-color:#FEDFD8;
   color:#000000;
-    
+  text-decoration:none;
+}
+ul.nav li a:hover{
+  background-color:#F38676;
 }
