@@ -1,7 +1,7 @@
 h1{
 background-color:#FEDFD8
 color:#000000;
-font-size:100px;
+font-size:80px;
 }
 p.fancy{
 color:#FEFC8F
@@ -15,6 +15,6 @@ ul.nav li a{
   display:block;
   padding:20px;
   background-color:##E1D32D;
-  color:#fff;
+  color:#000000;
     
 }
