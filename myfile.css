@@ -13,7 +13,7 @@ ul.nav li{
   width:80px;
 }
 ul.nav li a{
-  display:block;
+  display:inline-block;
   padding:20px;
   background-color:##E1D32D;
   color:#000000;
